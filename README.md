@@ -1,0 +1,2 @@
+# StudentSystem
+基于python实现数据库实用教程第四版中的学生选课管理系统
